@@ -37,5 +37,5 @@ This project analyzes **housing prices in Bangalore** using **machine learning t
 
 ---
 
-##📜 **License** ##
+##📜 **License**
 📝 This project is licensed under the MIT License.
