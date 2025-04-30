@@ -14,7 +14,7 @@ This project analyzes **housing prices in Bangalore** using **machine learning t
 
 ## 🛠 **Tools & Technologies Used**  
 - 📊 **Python** – Data processing & modeling  
-- 🏗 **Pandas & NumPy** – Data manipulation  
+- 🏗 **Pandas & NumPy** – Data manipulation 
 - 📉 **Matplotlib & Seaborn** – Data visualization  
 - 🏠 **Scikit-learn** – Machine learning algorithms 
 - 🛠 **Jupyter Notebook** – Experimentation & analysis  
