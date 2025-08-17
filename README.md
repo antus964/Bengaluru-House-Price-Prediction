@@ -7,7 +7,7 @@ This project analyzes **housing prices in Bangalore** using **machine learning t
 - ✅ **Data Cleaning & Preprocessing** (Handling missing values, outliers, and feature engineering)  
 - ✅ **Exploratory Data Analysis (EDA)** (Understanding price trends, location effects, and correlations)  
 - ✅ **Feature Selection & Model Building** (Using algorithms like Linear Regression, Decision Trees, and Random Forest)  
-- ✅ **Hyperparameter Tuning** to improve model accuracy  
+- ✅ **Hyperparameter Tuning** to improve model accuracy   
 - ✅ **Visualization of Price Trends** using **Matplotlib & Seaborn**   
     
 ---    
