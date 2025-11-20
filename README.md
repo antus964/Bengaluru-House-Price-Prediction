@@ -2,7 +2,7 @@
   
 ## 📌 **Project Overview**  
 This project analyzes **housing prices in Bangalore** using **machine learning techniques** to predict property prices based on various factors such as location, square footage, number of bedrooms, and amenities. The goal is to help buyers, sellers, and investors make data-driven decisions in the real estate market
-     
+      
 ### 📊 **Key Features**   
 - ✅ **Data Cleaning & Preprocessing** (Handling missing values, outliers, and feature engineering)  
 - ✅ **Exploratory Data Analysis (EDA)** (Understanding price trends, location effects, and correlations)  
